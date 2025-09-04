@@ -446,12 +446,6 @@
             <mxPoint x="420" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F7MxWh92xgUS0JT9h20W-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.055;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7MxWh92xgUS0JT9h20W-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="600" as="sourcePoint" />
-            <mxPoint x="183" y="660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="F7MxWh92xgUS0JT9h20W-21" value="Boleto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="154" y="530" width="60" height="30" as="geometry" />
         </mxCell>
@@ -480,6 +474,33 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="645.5" y="574" as="sourcePoint" />
             <mxPoint x="645.5" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-29" value="Agencia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="708" width="114" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-31" value="Numero Conta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="791" width="114" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7MxWh92xgUS0JT9h20W-29" target="F7MxWh92xgUS0JT9h20W-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="800" as="sourcePoint" />
+            <mxPoint x="440" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-33" value="Nome Instituição" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="626" width="114" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.049;exitY=1.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7MxWh92xgUS0JT9h20W-16" target="F7MxWh92xgUS0JT9h20W-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="800" as="sourcePoint" />
+            <mxPoint x="270" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7MxWh92xgUS0JT9h20W-33" target="F7MxWh92xgUS0JT9h20W-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="54" y="663" as="sourcePoint" />
+            <mxPoint x="314" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
