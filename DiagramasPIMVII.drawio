@@ -437,6 +437,51 @@
         <mxCell id="F7MxWh92xgUS0JT9h20W-15" value="Não Aceito" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="449" y="310" width="71" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="154" y="570" width="536" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.476;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F7MxWh92xgUS0JT9h20W-6" target="F7MxWh92xgUS0JT9h20W-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="600" as="sourcePoint" />
+            <mxPoint x="420" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.055;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7MxWh92xgUS0JT9h20W-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="600" as="sourcePoint" />
+            <mxPoint x="183" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-21" value="Boleto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="154" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-22" value="Debito" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-23" value="Crédito" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-24" value="Pix" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="606" y="530" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.375;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="F7MxWh92xgUS0JT9h20W-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="580" as="sourcePoint" />
+            <mxPoint x="355" y="657.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.664;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="F7MxWh92xgUS0JT9h20W-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="600" as="sourcePoint" />
+            <mxPoint x="510" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F7MxWh92xgUS0JT9h20W-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.664;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645.5" y="574" as="sourcePoint" />
+            <mxPoint x="645.5" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
