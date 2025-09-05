@@ -491,6 +491,24 @@
             <mxPoint x="480" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="z7iuiedydjjtknJB8sBn-14" value="TaxaAplicavel (opc)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="826" width="114" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="z7iuiedydjjtknJB8sBn-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="z7iuiedydjjtknJB8sBn-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="177" y="790" as="sourcePoint" />
+            <mxPoint x="480" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z7iuiedydjjtknJB8sBn-16" value="Data Vencimento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="906" width="114" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="z7iuiedydjjtknJB8sBn-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z7iuiedydjjtknJB8sBn-14" target="z7iuiedydjjtknJB8sBn-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="850" as="sourcePoint" />
+            <mxPoint x="480" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
