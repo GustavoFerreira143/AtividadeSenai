@@ -379,7 +379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HyTnM2f6GRizJa9tbWCD" name="FluxoDeAtividadeAdicionarLoja">
-    <mxGraphModel dx="1453" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -624,6 +624,30 @@
         </mxCell>
         <mxCell id="e1xhzAEQIe7tMqNZqBb1-17" value="Testes Para Integração" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="342" y="1070" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e1xhzAEQIe7tMqNZqBb1-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="1180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e1xhzAEQIe7tMqNZqBb1-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e1xhzAEQIe7tMqNZqBb1-17" target="e1xhzAEQIe7tMqNZqBb1-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1180" as="sourcePoint" />
+            <mxPoint x="450" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1xhzAEQIe7tMqNZqBb1-21" value="Pagamentos Testados Ok?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1134" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e1xhzAEQIe7tMqNZqBb1-22" value="Verifique se todas as informações estão corretas e tente novamente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="543.5" y="1195" width="205" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e1xhzAEQIe7tMqNZqBb1-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e1xhzAEQIe7tMqNZqBb1-19" target="e1xhzAEQIe7tMqNZqBb1-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1250" as="sourcePoint" />
+            <mxPoint x="530" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1xhzAEQIe7tMqNZqBb1-24" value="Não" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="469" y="1190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
