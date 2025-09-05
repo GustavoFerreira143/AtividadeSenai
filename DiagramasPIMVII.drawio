@@ -527,6 +527,24 @@
             <mxPoint x="470" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="z7iuiedydjjtknJB8sBn-22" value="Bandeiras&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Aceitas&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444" y="748" width="117" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="z7iuiedydjjtknJB8sBn-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z7iuiedydjjtknJB8sBn-4" target="z7iuiedydjjtknJB8sBn-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="810" as="sourcePoint" />
+            <mxPoint x="580" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z7iuiedydjjtknJB8sBn-24" value="Quantidade Maxima de Parcelas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="446" y="825" width="114" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="z7iuiedydjjtknJB8sBn-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z7iuiedydjjtknJB8sBn-22" target="z7iuiedydjjtknJB8sBn-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="810" as="sourcePoint" />
+            <mxPoint x="580" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
