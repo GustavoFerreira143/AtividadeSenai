@@ -379,7 +379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HyTnM2f6GRizJa9tbWCD" name="FluxoDeAtividadeAdicionarLoja">
-    <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1453" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -593,7 +593,7 @@
         <mxCell id="e1xhzAEQIe7tMqNZqBb1-11" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="122" y="1010" width="610" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="e1xhzAEQIe7tMqNZqBb1-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="e1xhzAEQIe7tMqNZqBb1-11" parent="1">
+        <mxCell id="e1xhzAEQIe7tMqNZqBb1-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="e1xhzAEQIe7tMqNZqBb1-11" parent="1" target="e1xhzAEQIe7tMqNZqBb1-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="426" y="1060" as="targetPoint" />
           </mxGeometry>
@@ -621,6 +621,9 @@
             <mxPoint x="390" y="870" as="sourcePoint" />
             <mxPoint x="440" y="820" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e1xhzAEQIe7tMqNZqBb1-17" value="Testes Para Integração" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="1070" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
