@@ -791,7 +791,7 @@
             <mxPoint x="414.5" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JQOVD5Yhi3thimDQ9M9A-18" value="Erro: Corrija alguns campos para Preceguir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-18" value="Erro: Corrija alguns campos para Proceguir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534.5" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JQOVD5Yhi3thimDQ9M9A-19" value="Sucesso, produto criado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
