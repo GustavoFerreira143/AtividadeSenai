@@ -681,7 +681,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RclbPVX3qECWSEjlgM0R" name="FluxoDeAtividadeAdicionarProduto">
-    <mxGraphModel dx="1026" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1453" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -775,6 +775,69 @@
             <mxPoint x="360" y="610" as="sourcePoint" />
             <mxPoint x="410" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-11" value="Podendo ser Inserido Preço de forma unitária nas formas de pagamento existentes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="175" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xU3hl8R7GOwfrb-Exaw0-4" target="JQOVD5Yhi3thimDQ9M9A-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="370" as="sourcePoint" />
+            <mxPoint x="410" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-14" value="Enviar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360.5" y="831" width="107" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JQOVD5Yhi3thimDQ9M9A-7" target="JQOVD5Yhi3thimDQ9M9A-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="720" as="sourcePoint" />
+            <mxPoint x="410" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JQOVD5Yhi3thimDQ9M9A-14" target="JQOVD5Yhi3thimDQ9M9A-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="960" as="sourcePoint" />
+            <mxPoint x="410" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-18" value="Erro: Corrija alguns campos para Preceguir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-19" value="Sucesso, produto criado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="1060" width="114" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JQOVD5Yhi3thimDQ9M9A-16" target="JQOVD5Yhi3thimDQ9M9A-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="960" as="sourcePoint" />
+            <mxPoint x="410" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JQOVD5Yhi3thimDQ9M9A-16" target="JQOVD5Yhi3thimDQ9M9A-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="960" as="sourcePoint" />
+            <mxPoint x="410" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-23" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="388.5" y="1169" width="51" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JQOVD5Yhi3thimDQ9M9A-19" target="JQOVD5Yhi3thimDQ9M9A-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="960" as="sourcePoint" />
+            <mxPoint x="410" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-26" value="Há algum erro Referente?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414.5" y="890" width="93" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-27" value="Sim" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="454" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JQOVD5Yhi3thimDQ9M9A-28" value="Não" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
