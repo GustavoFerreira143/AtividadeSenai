@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.0" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.0" pages="9">
   <diagram name="Casos_De_Uso" id="0Wb1LLlp7r290baFD5k5">
     <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,186 +119,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="460" as="sourcePoint" />
             <mxPoint x="640" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="GxX6X4pWGeqhp6C_C11S" name="FluxoDeAtividadeCadastro">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="jIdloNGSOffeWpv-VlJb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-2" target="jIdloNGSOffeWpv-VlJb-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="384" y="43" width="44" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="406" y="213" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-4" value="Tipo Cadastro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="346" y="133" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="194" y="213" as="sourcePoint" />
-            <mxPoint x="614" y="213" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-6" value="Nome" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="263" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIdloNGSOffeWpv-VlJb-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="224" y="213" as="sourcePoint" />
-            <mxPoint x="444" y="163" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-8" value="Email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="346" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-6" target="jIdloNGSOffeWpv-VlJb-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="394" y="413" as="sourcePoint" />
-            <mxPoint x="444" y="363" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-10" value="Senha" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="435" width="100" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-8" target="jIdloNGSOffeWpv-VlJb-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="394" y="413" as="sourcePoint" />
-            <mxPoint x="444" y="363" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-12" value="Tipo Cliente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="204" y="173" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-13" value="Tipo Loja" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="544" y="173" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-14" value="Nome" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="527" y="263" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-15" value="Email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="527" y="345" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIdloNGSOffeWpv-VlJb-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="577" y="213" as="sourcePoint" />
-            <mxPoint x="444" y="263" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-14" target="jIdloNGSOffeWpv-VlJb-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="654" y="283" as="sourcePoint" />
-            <mxPoint x="654" y="333" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-18" value="Nome Empresa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="526" y="435" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIdloNGSOffeWpv-VlJb-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="576" y="393" as="sourcePoint" />
-            <mxPoint x="444" y="363" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-20" value="CNPJ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="526" y="513" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-18" target="jIdloNGSOffeWpv-VlJb-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="324" y="553" as="sourcePoint" />
-            <mxPoint x="484" y="513" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-22" value="Senha" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="526" y="593" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-20" target="jIdloNGSOffeWpv-VlJb-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="324" y="553" as="sourcePoint" />
-            <mxPoint x="404" y="513" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="163" y="733" as="sourcePoint" />
-            <mxPoint x="603" y="733" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="324" y="553" as="sourcePoint" />
-            <mxPoint x="576" y="733" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="324" y="673" as="sourcePoint" />
-            <mxPoint x="224" y="733" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-28" target="jIdloNGSOffeWpv-VlJb-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="903" />
-              <mxPoint x="400" y="903" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-28" value="Enviar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="783" width="92" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIdloNGSOffeWpv-VlJb-28">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="733" as="sourcePoint" />
-            <mxPoint x="344" y="683" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-30" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="902" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-31" value="Token de Confirmação" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="314" y="853" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-32" value="Erro Tente Novamente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="554" y="922" width="110" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-33" value="Sucesso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="164" y="922" width="107" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-30" target="jIdloNGSOffeWpv-VlJb-33">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="384" y="893" as="sourcePoint" />
-            <mxPoint x="334" y="893" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-30" target="jIdloNGSOffeWpv-VlJb-32">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="444" y="943" as="sourcePoint" />
-            <mxPoint x="434" y="843" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-36" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="379" y="1086" width="39" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-37" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-32" target="jIdloNGSOffeWpv-VlJb-36">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="484" y="1053" as="sourcePoint" />
-            <mxPoint x="644" y="1053" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jIdloNGSOffeWpv-VlJb-38" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jIdloNGSOffeWpv-VlJb-33" target="jIdloNGSOffeWpv-VlJb-36">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="294" y="983" as="sourcePoint" />
-            <mxPoint x="454" y="983" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -1078,7 +898,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a1tA6j8BaC6FtQF3Qumk" name="FluxoDeAtividadeEditar/AdicionarFormaDePagamentos">
-    <mxGraphModel dx="1026" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2491" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1355,6 +1175,197 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="990" as="sourcePoint" />
             <mxPoint x="530" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xkvkpc_SS_V_agX6rDix" name="DiagramaDeClassesEmpresas">
+    <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jztHX94NEMuS0zmqqLxe-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Usuário&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: justify; margin: 0px 0px 0px 4px;&quot;&gt;+ Nome: String&lt;/p&gt;&lt;p style=&quot;text-align: justify; margin: 0px 0px 0px 4px;&quot;&gt;+ Email: String&lt;/p&gt;&lt;p style=&quot;text-align: justify; margin: 0px 0px 0px 4px;&quot;&gt;&amp;nbsp;- Senha: String&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ CriaUsuario(): Bool&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="230" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GxX6X4pWGeqhp6C_C11S" name="FluxoDeAtividadeCadastro">
+    <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jIdloNGSOffeWpv-VlJb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jIdloNGSOffeWpv-VlJb-2" target="jIdloNGSOffeWpv-VlJb-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="384" y="43" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jIdloNGSOffeWpv-VlJb-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="406" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-4" value="Tipo Cadastro" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="346" y="133" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="194" y="213" as="sourcePoint" />
+            <mxPoint x="614" y="213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-6" value="Nome" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="174" y="263" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="jIdloNGSOffeWpv-VlJb-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="224" y="213" as="sourcePoint" />
+            <mxPoint x="444" y="163" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-8" value="Email" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="174" y="346" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jIdloNGSOffeWpv-VlJb-6" target="jIdloNGSOffeWpv-VlJb-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="394" y="413" as="sourcePoint" />
+            <mxPoint x="444" y="363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-10" value="Senha" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="174" y="435" width="100" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jIdloNGSOffeWpv-VlJb-8" target="jIdloNGSOffeWpv-VlJb-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="394" y="413" as="sourcePoint" />
+            <mxPoint x="444" y="363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-12" value="Tipo Cliente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="204" y="173" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-13" value="Tipo Loja" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="544" y="173" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-14" value="Nome" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="527" y="263" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-15" value="Email" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="527" y="345" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="jIdloNGSOffeWpv-VlJb-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="577" y="213" as="sourcePoint" />
+            <mxPoint x="444" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jIdloNGSOffeWpv-VlJb-14" target="jIdloNGSOffeWpv-VlJb-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="654" y="283" as="sourcePoint" />
+            <mxPoint x="654" y="333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-18" value="Nome Empresa" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="526" y="435" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="jIdloNGSOffeWpv-VlJb-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="576" y="393" as="sourcePoint" />
+            <mxPoint x="444" y="363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-20" value="CNPJ" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="526" y="513" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jIdloNGSOffeWpv-VlJb-18" target="jIdloNGSOffeWpv-VlJb-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="324" y="553" as="sourcePoint" />
+            <mxPoint x="484" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-22" value="Senha" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="526" y="593" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jIdloNGSOffeWpv-VlJb-20" target="jIdloNGSOffeWpv-VlJb-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="324" y="553" as="sourcePoint" />
+            <mxPoint x="404" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-24" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="163" y="733" as="sourcePoint" />
+            <mxPoint x="603" y="733" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jIdloNGSOffeWpv-VlJb-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="324" y="553" as="sourcePoint" />
+            <mxPoint x="576" y="733" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jIdloNGSOffeWpv-VlJb-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="324" y="673" as="sourcePoint" />
+            <mxPoint x="224" y="733" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jIdloNGSOffeWpv-VlJb-28" target="jIdloNGSOffeWpv-VlJb-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="903" />
+              <mxPoint x="400" y="903" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-28" value="Enviar" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="783" width="92" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="jIdloNGSOffeWpv-VlJb-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="733" as="sourcePoint" />
+            <mxPoint x="344" y="683" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-30" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="362" y="902" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-31" value="Token de Confirmação" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="314" y="853" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-32" value="Erro Tente Novamente" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="554" y="922" width="110" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-33" value="Sucesso" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="164" y="922" width="107" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jIdloNGSOffeWpv-VlJb-30" target="jIdloNGSOffeWpv-VlJb-33" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="384" y="893" as="sourcePoint" />
+            <mxPoint x="334" y="893" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jIdloNGSOffeWpv-VlJb-30" target="jIdloNGSOffeWpv-VlJb-32" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="444" y="943" as="sourcePoint" />
+            <mxPoint x="434" y="843" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-36" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="379" y="1086" width="39" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-37" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jIdloNGSOffeWpv-VlJb-32" target="jIdloNGSOffeWpv-VlJb-36" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="484" y="1053" as="sourcePoint" />
+            <mxPoint x="644" y="1053" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIdloNGSOffeWpv-VlJb-38" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jIdloNGSOffeWpv-VlJb-33" target="jIdloNGSOffeWpv-VlJb-36" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="294" y="983" as="sourcePoint" />
+            <mxPoint x="454" y="983" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
