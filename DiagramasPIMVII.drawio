@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.0" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 OPR/121.0.0.0" version="28.1.2" pages="9">
   <diagram name="Casos_De_Uso" id="0Wb1LLlp7r290baFD5k5">
     <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1180,31 +1180,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="xkvkpc_SS_V_agX6rDix" name="DiagramaDeClassesEmpresas">
-    <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="jztHX94NEMuS0zmqqLxe-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Usuário&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: justify; margin: 0px 0px 0px 4px;&quot;&gt;+ Nome: String&lt;/p&gt;&lt;p style=&quot;text-align: justify; margin: 0px 0px 0px 4px;&quot;&gt;+ Email: String&lt;/p&gt;&lt;p style=&quot;text-align: justify; margin: 0px 0px 0px 4px;&quot;&gt;&amp;nbsp;- Senha: String&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ CriaUsuario(): Bool&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="150" y="120" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="wtvNfPXWRV5vdCgLlldj-1" value="Conn" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="50" width="196" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="wtvNfPXWRV5vdCgLlldj-2" value="- DB_Host: String&lt;br&gt;- DB_UserName: String&lt;br&gt;- DB_Password: String&lt;br&gt;- DB_DatabaseName: String&lt;br&gt;+ conn: SqlConection" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wtvNfPXWRV5vdCgLlldj-1">
-          <mxGeometry y="26" width="196" height="94" as="geometry" />
-        </mxCell>
-        <mxCell id="wtvNfPXWRV5vdCgLlldj-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="wtvNfPXWRV5vdCgLlldj-1">
-          <mxGeometry y="120" width="196" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="wtvNfPXWRV5vdCgLlldj-4" value="+ conexao(): SqlConection" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wtvNfPXWRV5vdCgLlldj-1">
-          <mxGeometry y="128" width="196" height="32" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="GxX6X4pWGeqhp6C_C11S" name="FluxoDeAtividadeCadastro">
-    <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1379,6 +1356,29 @@
             <mxPoint x="294" y="983" as="sourcePoint" />
             <mxPoint x="454" y="983" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xkvkpc_SS_V_agX6rDix" name="DiagramaDeClassesEmpresas">
+    <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jztHX94NEMuS0zmqqLxe-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Usuário&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: justify; margin: 0px 0px 0px 4px;&quot;&gt;+ Nome: String&lt;/p&gt;&lt;p style=&quot;text-align: justify; margin: 0px 0px 0px 4px;&quot;&gt;+ Email: String&lt;/p&gt;&lt;p style=&quot;text-align: justify; margin: 0px 0px 0px 4px;&quot;&gt;&amp;nbsp;- Senha: String&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ CriaUsuario(): Bool&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wtvNfPXWRV5vdCgLlldj-1" value="Conn" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="196" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wtvNfPXWRV5vdCgLlldj-2" value="- DB_Host: String&lt;br&gt;- DB_UserName: String&lt;br&gt;- DB_Password: String&lt;br&gt;- DB_DatabaseName: String&lt;br&gt;+ conn: SqlConection" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wtvNfPXWRV5vdCgLlldj-1">
+          <mxGeometry y="26" width="196" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="wtvNfPXWRV5vdCgLlldj-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="wtvNfPXWRV5vdCgLlldj-1">
+          <mxGeometry y="120" width="196" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="wtvNfPXWRV5vdCgLlldj-4" value="+ conexao(): SqlConection" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wtvNfPXWRV5vdCgLlldj-1">
+          <mxGeometry y="128" width="196" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
